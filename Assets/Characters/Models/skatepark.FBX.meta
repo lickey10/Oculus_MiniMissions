@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: fb1b8e937a36e5b4b936881cd808d321
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box01
+    100002: Camera01
+    100004: Camera01.Target
+    100006: Loft01
+    100008: mr Area Spot01
+    100010: mr Area Spot01.Target
+    100012: Railing01
+    100014: Rectangle01
+    100016: Rectangle02
+    100018: Skate ramp
+    100020: Skate ramp tre
+    100022: Skate ramp tre01
+    100024: Skate ramp tre02
+    100026: Skate ramp tre03
+    100028: Skate ramp01
+    100030: Skate ramp02
+    100032: Skate ramp03
+    100034: Skatepark
+    100036: //RootNode
+    100038: Sphere01
+    400000: Box01
+    400002: Camera01
+    400004: Camera01.Target
+    400006: Loft01
+    400008: mr Area Spot01
+    400010: mr Area Spot01.Target
+    400012: Railing01
+    400014: Rectangle01
+    400016: Rectangle02
+    400018: Skate ramp
+    400020: Skate ramp tre
+    400022: Skate ramp tre01
+    400024: Skate ramp tre02
+    400026: Skate ramp tre03
+    400028: Skate ramp01
+    400030: Skate ramp02
+    400032: Skate ramp03
+    400034: Skatepark
+    400036: //RootNode
+    400038: Sphere01
+    2000000: Camera01
+    2100000: 01 - Default
+    2100002: Skategjerde
+    2100004: Concrete_Blue_Stucco
+    2100006: Skate ramp
+    2100008: Betong mellom
+    2100010: Metal_Grey_Plain
+    2300000: Box01
+    2300002: Loft01
+    2300004: Railing01
+    2300006: Rectangle01
+    2300008: Skate ramp
+    2300010: Skate ramp tre
+    2300012: Skate ramp tre01
+    2300014: Skate ramp tre02
+    2300016: Skate ramp tre03
+    2300018: Skate ramp01
+    2300020: Skate ramp02
+    2300022: Skate ramp03
+    2300024: Sphere01
+    3300000: Box01
+    3300002: Loft01
+    3300004: Railing01
+    3300006: Rectangle01
+    3300008: Skate ramp
+    3300010: Skate ramp tre
+    3300012: Skate ramp tre01
+    3300014: Skate ramp tre02
+    3300016: Skate ramp tre03
+    3300018: Skate ramp01
+    3300020: Skate ramp02
+    3300022: Skate ramp03
+    3300024: Sphere01
+    4300000: Rectangle01
+    4300002: Railing01
+    4300004: Skate ramp
+    4300006: Skate ramp tre
+    4300008: Skate ramp tre01
+    4300010: Skate ramp01
+    4300012: Box01
+    4300014: Skate ramp02
+    4300016: Skate ramp tre02
+    4300018: Skate ramp03
+    4300020: Skate ramp tre03
+    4300022: Sphere01
+    4300024: Loft01
+    9500000: //RootNode
+    10800000: mr Area Spot01
+    6000828045688606266: Camera01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

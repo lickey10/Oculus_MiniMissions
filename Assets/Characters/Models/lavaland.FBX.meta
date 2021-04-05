@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 4e0dd310a9fc02b4f8d14742d333ce4b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera002
+    100002: Camera002.Target
+    100004: Camera003
+    100006: Camera003.Target
+    100008: Camera004
+    100010: Camera004.Target
+    100012: Camera01
+    100014: Camera01.Target
+    100016: Cylinder01
+    100018: Cylinder02
+    100020: //RootNode
+    100022: Object003
+    100024: Object004
+    100026: Object005
+    100028: Object006
+    100030: Object01
+    100032: Object02
+    100034: Omni001
+    100036: Plane02
+    100038: Plane04
+    400000: Camera002
+    400002: Camera002.Target
+    400004: Camera003
+    400006: Camera003.Target
+    400008: Camera004
+    400010: Camera004.Target
+    400012: Camera01
+    400014: Camera01.Target
+    400016: Cylinder01
+    400018: Cylinder02
+    400020: //RootNode
+    400022: Object003
+    400024: Object004
+    400026: Object005
+    400028: Object006
+    400030: Object01
+    400032: Object02
+    400034: Omni001
+    400036: Plane02
+    400038: Plane04
+    2000000: Camera002
+    2000002: Camera003
+    2000004: Camera004
+    2000006: Camera01
+    2100000: Standard_1
+    2100002: No Name
+    2100004: 'Material #806'
+    2100006: 07 - Default
+    2100008: Standard_3
+    2100010: Standard_2
+    2300000: Cylinder01
+    2300002: Cylinder02
+    2300004: Object003
+    2300006: Object004
+    2300008: Object005
+    2300010: Object006
+    2300012: Object01
+    2300014: Object02
+    3300000: Cylinder01
+    3300002: Cylinder02
+    3300004: Object003
+    3300006: Object004
+    3300008: Object005
+    3300010: Object006
+    3300012: Object01
+    3300014: Object02
+    4300000: Object01
+    4300002: Cylinder01
+    4300004: Cylinder02
+    4300006: Object02
+    4300008: Object003
+    4300010: Object004
+    4300012: Object005
+    4300014: Object006
+    9500000: //RootNode
+    10800000: Omni001
+    2186277476908879412: ImportLogs
+    6000828045688606266: Camera002
+    6000828045688606268: Camera003
+    6000828045688606270: Camera004
+    6000828045688606272: Camera01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
