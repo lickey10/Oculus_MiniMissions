@@ -1,0 +1,62 @@
+﻿<DisplayBoardText>
+  <Level number="1">
+    <InitialTitle>
+      Mission Briefing
+    </InitialTitle>
+    <InitialDisplay>
+      Find the elevator to make it to the next level.  Make sure you avoid security, especially those pesky guards. Jump in the teleporter to your right to get started.
+    </InitialDisplay>
+    <SuccessTitle>
+      YAY!!
+    </SuccessTitle>
+    <SuccessText>
+      Excellent!  You found your way to the elevator!
+    </SuccessText>
+    <FailureTitle>
+      Back So Soon?
+    </FailureTitle>
+    <FailureText>
+      I thought you really had a chance out there.  I'm sure you can make it this time!
+    </FailureText>
+  </Level>
+  <Level number="2">
+    <InitialTitle>
+      Mission Briefing
+    </InitialTitle>
+    <InitialDisplay>
+      The laser fences are controlled by terminals. The elevator on this level requires a keycard that you will need to get from the security office. Good Luck!
+    </InitialDisplay>
+    <SuccessTitle>
+      Success!!
+    </SuccessTitle>
+    <SuccessText>
+      Excellent!  You found your way to the elevator!
+    </SuccessText>
+    <FailureTitle>
+      Forget something?
+    </FailureTitle>
+    <FailureText>
+      You just can't stay away can you?  Give it another go.
+    </FailureText>
+  </Level>
+  <Level number="3">
+    <InitialTitle>
+      Mission Briefing
+    </InitialTitle>
+    <InitialDisplay>
+      They are starting to get tired of the constant infiltration of their security system.  They have installed CCTV cameras.  Watch yourself, they are.
+    </InitialDisplay>
+    <SuccessTitle>
+      Awesome!!
+    </SuccessTitle>
+    <SuccessText>
+      WOW!! This is a first. No one has made it this far. Congratulations!!
+    </SuccessText>
+    <FailureTitle>
+      You missed me!
+    </FailureTitle>
+    <FailureText>
+      You almost had that.  LOL, alright you weren't even close, I couln't keep a straight face.  Just think stealthy.
+    </FailureText>
+  </Level>
+</DisplayBoardText>
